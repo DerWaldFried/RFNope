@@ -1,7 +1,7 @@
 # RFNope
 ## Avoid Broadcasting Fee, Strike German Broadcasting Corporation
 
-** RFNope ** is a free software, in that case often called freeware. Its purpose is to enable the end user to no longer visit and receive radio stations and services from the German state broadcaster on the computer or other devices. Why is this so? Many other websites and groups can explain this much more intensively.
+**RFNope** is a free software, in that case often called freeware. Its purpose is to enable the end user to no longer visit and receive radio stations and services from the German state broadcaster on the computer or other devices. Why is this so? Many other websites and groups can explain this much more intensively.
 
 This freeware currently makes it possible:
 - Block websites from radio YouTube channels and from state broadcasters on the home computer.
