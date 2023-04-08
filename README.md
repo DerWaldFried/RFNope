@@ -19,7 +19,7 @@ The main software will always remain free in the functions. We prohibit other de
 Deutsche Übersetzung
 ---
 
-** RFNope ** ist eine kostenlose Software, indem Fall oft auch Freeware genannt. Die dazu dient, dem Endnutzer zu ermöglichen, keine Rundfunksender und Dienste mehr auf dem Computer oder anderen Geräten besuchen und empfangen zu können vom Staatlichen Deutschen Rundfunk. Warum das so ist? Das können viele andere Webseiten und Gruppen viel intensiver erklären.
+**RFNope** ist eine kostenlose Software, indem Fall oft auch Freeware genannt. Die dazu dient, dem Endnutzer zu ermöglichen, keine Rundfunksender und Dienste mehr auf dem Computer oder anderen Geräten besuchen und empfangen zu können vom Staatlichen Deutschen Rundfunk. Warum das so ist? Das können viele andere Webseiten und Gruppen viel intensiver erklären.
 
 Diese Freeware ermöglicht es aktuell:
 - Webseiten von Funk YouTube Kanälen und von Staatlichen Rundfunkanbietern zu blockieren auf dem heimischen Computer
