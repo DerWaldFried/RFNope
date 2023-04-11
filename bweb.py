@@ -4,7 +4,7 @@ blocked_urls = ['www.3sat.de', 'www.ardalpha.de',
                 'www.dw.com', 'www.hr-fernsehen.de', 'www.kika.de',
                 'www.mdr.de', 'www.ndr.de', 'www.ardmediathek.de',
                 'www.phoenix.de', 'www.radiobremen.de', 'www.rbb-online.de',
-                'www.sr.de', 'www.swrfernsehen.de', 'www.ard.de', 'www1.wdr.de'
+                'www.sr.de', 'www.swrfernsehen.de', 'www.ard.de', 'www1.wdr.de',
                 'www.wdr.de', 'www.zdf.de', 'www.ardmediathek.de', 'www.funk.net',
                 'www.deutschlandfunk.de', 'www.deutschlandfunkkultur.de', 'www.deutschlandfunknova.de',
                 'www.br-klassik.de', 'www.hr1.de', 'www.hr2.de', 'www.hr3.de', 'www.hr4.de',
