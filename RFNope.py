@@ -24,9 +24,9 @@ if accept == "YES":
         console.print("NTBLocker will called")
         ntblocker()
     else:
-        import pssys
-
-        pssys.Main.PSBlocker()
+        from pssys import psblocker
+        console.print("PSBlocker will called")
+        psblocker()
 
 # When User Choose NO
 if accept == "NO":
@@ -34,9 +34,8 @@ if accept == "NO":
         from ntsys import ntdeblocker
         ntdeblocker()
     else:
-        import pssys
-
-        pssys.PSDeblocker()
+        from pssys import psdeblocker
+        psdeblocker()
 
 else:
     console.print("You Dont have Choose YES or NO. The Software has do nothing")
