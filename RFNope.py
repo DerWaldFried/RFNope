@@ -5,16 +5,22 @@ from rich.theme import Theme
 
 custom_theme = Theme({
         "info": "dim cyan",
-        "warning": "magenta",
+        "warning": "bold white",
         "danger": "bold red"
     })
 
 console = Console(theme=custom_theme)
-console.print("[warning]RFNope[/warning]")
-console.print("This Software will Block the German RundFunk and his Services!", style="danger")
+console.print("################################################################", justify="center")
+console.print("[warning]RFNope[/warning]", justify="center")
+console.print("Creation from [link=https://www.friedmann-blog.info]Friedmann-Blog.info[/link]!", justify="center")
+console.print("################################################################", justify="center")
+console.print("This Software will Block the German RundFunk and his Services!", style="danger", justify="center")
 
-console.print("Enter [warning]YES[/warning] when you want Block all Websites and Services!\n")
-console.print(" Type NO when you want do delete the Block of all Rundfunk Services\n")
+console.print("Enter [warning]YES[/warning] when you want Block all Websites and Services!", justify="center")
+console.print("Type NO when you want do delete the Block of all Rundfunk Services\n", justify="center")
+console.print("################################################################\n", justify="center")
+
+console.print("Choose YES or NO: ")
 accept = console.input()
 
 # When User Choose YES
