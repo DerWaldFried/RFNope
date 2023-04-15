@@ -11,6 +11,8 @@ blocked_urls = ['www.3sat.de', 'www.ardalpha.de',
                 'www.hr-inforadio.de', 'www.you-fm.de', 'www.bremeneins.de', 'www.radiobremen.de',
                 'www.bremennext.de', 'www.bremenvier.de', 'www.n-joy.de', 'www.unserding.de',
                 'www.dasding.de', 'ardaudiothek.de', 'www.youtube.com/@funk', 'www.youtube.com/c/TRUDOKU',
-                'www.tiktok.com/@trudoku', 'www.instagram.com/trudoku/', 'www.youtube.com/channel/UCZHpIFMfoJJ_1QxNGLJTzyA',
-                'www.youtube.com/mailab', 'www.youtube.com/ykollektiv', 'www.instagram.com/y_kollektiv']
+                'www.tiktok.com/@trudoku', 'www.instagram.com/trudoku/', 'https://www.facebook.com/wdrlokalzeit/',
+                'www.youtube.com/channel/UCZHpIFMfoJJ_1QxNGLJTzyA', 'https://www.facebook.com/landesschau.bw/',
+                'https://www.facebook.com/querbeet.br/', 'www.youtube.com/mailab', 'www.youtube.com/ykollektiv',
+                'www.instagram.com/y_kollektiv', 'https://www.facebook.com/SWRFernsehen']
 
